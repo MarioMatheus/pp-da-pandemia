@@ -1,2 +1,2 @@
-# pp-da-pandemia
+# PP da Pandemia
 Atividade de Padrões de Projeto
