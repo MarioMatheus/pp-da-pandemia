@@ -1,2 +1,2 @@
 # PP da Pandemia
-Atividade de Padrões de Projeto
+Atividade da disciplina de Padrões de Projeto
